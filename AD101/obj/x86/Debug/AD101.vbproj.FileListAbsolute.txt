@@ -1,0 +1,45 @@
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\bin\Debug\AD101.exe
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\bin\Debug\AD101.pdb
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\bin\Debug\AD101.xml
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\obj\x86\Debug\AD101.Form1.resources
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\obj\x86\Debug\AD101.Resources.resources
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\obj\x86\Debug\AD101.vbproj.GenerateResource.Cache
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\obj\x86\Debug\AD101.exe
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\obj\x86\Debug\AD101.xml
+C:\Users\Tiger\AppData\Local\Temporary Projects\AD101\obj\x86\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\obj\x86\Debug\AD101.exe
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\obj\x86\Debug\AD101.xml
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\obj\x86\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\bin\Debug\AD101.exe
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\bin\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\bin\Debug\AD101.xml
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\obj\x86\Debug\AD101.Form1.resources
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\obj\x86\Debug\AD101.Resources.resources
+D:\Tiger\Desktop\AD101 VB2010\AD101\AD101\obj\x86\Debug\AD101.vbproj.GenerateResource.Cache
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\obj\x86\Debug\AD101.exe
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\obj\x86\Debug\AD101.xml
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\obj\x86\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\bin\Debug\AD101.exe
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\bin\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\bin\Debug\AD101.xml
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\obj\x86\Debug\AD101.Form1.resources
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\obj\x86\Debug\AD101.Resources.resources
+D:\Tiger\Desktop\AD101\VB 2010\AD101\AD101\obj\x86\Debug\AD101.vbproj.GenerateResource.Cache
+D:\Tiger\Desktop\AD101\VB 2010\AD101\obj\x86\Debug\AD101.exe
+D:\Tiger\Desktop\AD101\VB 2010\AD101\obj\x86\Debug\AD101.xml
+D:\Tiger\Desktop\AD101\VB 2010\AD101\obj\x86\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101\VB 2010\AD101\bin\Debug\AD101.exe
+D:\Tiger\Desktop\AD101\VB 2010\AD101\bin\Debug\AD101.pdb
+D:\Tiger\Desktop\AD101\VB 2010\AD101\bin\Debug\AD101.xml
+D:\Tiger\Desktop\AD101\VB 2010\AD101\obj\x86\Debug\AD101.Form1.resources
+D:\Tiger\Desktop\AD101\VB 2010\AD101\obj\x86\Debug\AD101.Resources.resources
+D:\Tiger\Desktop\AD101\VB 2010\AD101\obj\x86\Debug\AD101.vbproj.GenerateResource.Cache
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\obj\x86\Debug\AD101.exe
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\obj\x86\Debug\AD101.xml
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\obj\x86\Debug\AD101.pdb
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\bin\Debug\AD101.exe
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\bin\Debug\AD101.pdb
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\bin\Debug\AD101.xml
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\obj\x86\Debug\AD101.Form1.resources
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\obj\x86\Debug\AD101.Resources.resources
+D:\Google 雲端硬碟\_程式開發\AD101\VB 2010\AD101\obj\x86\Debug\AD101.vbproj.GenerateResource.Cache
